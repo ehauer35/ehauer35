@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ehauer35
-- 👀 I’m interested in Coding with Python and Swift
-- 🌱 I’m currently learning how to use APIs
-- 📫 Reach out to me on Instagram: ehauer35
+
